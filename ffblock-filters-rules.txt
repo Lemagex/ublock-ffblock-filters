@@ -1,3 +1,4 @@
+! Title: Block some ads and intrusive banners on FFXIV community sites like fflogs and tomestone.
 ||assets.rpglogs.com/img/ff/fallback/*.png?v=1$image
 ||assets.rpglogs.com/img/ff/featured-article-fallback.jpg$image
 www.fflogs.com###top-banner-fallback > [href="/subscribe"]
