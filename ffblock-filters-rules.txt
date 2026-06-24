@@ -1,0 +1,19 @@
+||assets.rpglogs.com/img/ff/fallback/*.png?v=1$image
+||assets.rpglogs.com/img/ff/featured-article-fallback.jpg$image
+www.fflogs.com###top-banner-fallback > [href="/subscribe"]
+www.fflogs.com###right-vertical-banner
+www.fflogs.com###top-banner-fallback
+www.fflogs.com###bottom-banner-fallback
+www.fflogs.com##.side-rail-ads--home.side-rail-ads
+www.fflogs.com###subscription-message-tile-container > .react-tile > .react-tile__content--regular.react-tile__content
+www.fflogs.com##.a52596fdd-venatus__type--mpu.a52596fdd-venatus > .a52596fdd-fallback
+www.fflogs.com##.a52596fdd-sticky-footer__children
+www.fflogs.com##.a52596fdd-venatus__type--mpu.a52596fdd-venatus
+www.fflogs.com##.a52596fdd--characterGear.a52596fdd
+www.fflogs.com##.content-sidebar
+www.fflogs.com###right-ad-box
+www.fflogs.com###tile-content-ap
+||forum.square-enix.com/ffxiv/images/template/common/footer/bg.png$image
+tomestone.gg##.bottom-1.sticky.mx-auto.justify-center.flex-col.md\:flex.hidden.mt-5.bg-\[var\(--color-primary-800\)\].p-2.rounded-lg
+tomestone.gg##.\32 xl\:flex.hidden.my-2.top-3.flex-col.box-content.items-center.bg-\[var\(--color-primary-800\)\].self-start.sticky.p-2.mt-5.mr-5.rounded-lg
+||ffxiv.sgp1.cdn.digitaloceanspaces.com/sellingout.webp$image
